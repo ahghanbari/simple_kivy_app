@@ -2,22 +2,21 @@
 ## Welcome :sunglasses:
 
 <img src="demo.png" alt="a demo pic of app" height="300">
-\
 
-## In this section you can see the preview of the App \
+## In this section you can see the preview of the App
 <img src="demo.gif" height="350">
 
-### Allright, it's time to explanation :dizzy_face: \
+### Allright, it's time to explanation :dizzy_face:
 
-In this bunch of code, we want to divide a list of Cards with Specific value between bob and potrick in the fairest way. \
+In this bunch of code, we want to divide a list of Cards with Specific value between bob and potrick in the fairest way.
 
-The Algorithm Part of that is too simple :flushed: :grin: You can see and Understand. \
-<br />
-The GUI Part of that written with [kivy](https://kivy.org/#home) and it's difficult to explain, you can read that and if you could understand, then good for you :wink: :sunglasses: \
+The Algorithm Part of that is too simple :flushed: :grin: You can see and Understand.
 
-And in the end, this code was my project in the Algorithm Design Lesson. \
+The GUI Part of that written with [kivy](https://kivy.org/#home) and it's difficult to explain, you can read that and if you could understand, then good for you :wink: :sunglasses:
 
-Thanks to: \
+And in the end, this code was my project in the Algorithm Design Lesson.
+
+Thanks to: <br />
         Dr Fatemeh Amiri (Professor)
         Mr Mahdi BG (TA) \
  
