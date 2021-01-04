@@ -21,7 +21,7 @@ Just kivy
 pip3 install kivy
 ```
 #### GNU/Linux Distribution:
-<br />
+
 ```
 python3 main.py
 or
@@ -34,6 +34,8 @@ python3 main.py
 ```
 
 PS: we could put the file in the diffrent directory for more arrangement, but running that in the Unix-like system and widows was getting hard.
+<br />
+<br />
 
 And in the end, this code was my project in the Algorithm Design Lesson.
 
@@ -48,7 +50,7 @@ Thanks to: <br />
 - build APK (android version) with buildozer or python4android or ...
 <br />
 <br />
-<br />
+
 Bye Bye :worried: :hand:
 
 <br />
