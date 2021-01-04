@@ -4,6 +4,7 @@
 <img src="demo.png" alt="a demo pic of app" height="300">
 <br />
 <br />
+
 ## In this section you can see the preview of the App
 <img src="demo.gif" height="350">
 <br />
