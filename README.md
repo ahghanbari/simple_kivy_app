@@ -20,7 +20,7 @@ Just kivy
 ```
 pip3 install kivy
 ```
-#### Gnu/Linux Distribution:
+#### GNU/Linux Distribution:
 first way <br />
 ```
 python3 main.py
