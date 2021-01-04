@@ -21,17 +21,15 @@ Just kivy
 pip3 install kivy
 ```
 #### GNU/Linux Distribution:
-first way <br />
-```shell
-python3 main.py
+<br />
 ```
-second way
-```sh
+python3 main.py
+or
 ./main.py
 ```
 
 #### Windows
-```python
+```
 python3 main.py
 ```
 
@@ -47,9 +45,10 @@ Thanks to: <br />
 <br />
 
 ### TODO
-build APK (android version) with buildozer or python4android or ...
+- build APK (android version) with buildozer or python4android or ...
 <br />
-
+<br />
+<br />
 Bye Bye :worried: :hand:
 
 <br />
