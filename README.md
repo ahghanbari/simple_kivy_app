@@ -4,6 +4,7 @@
 <img src="demo.png" alt="a demo pic of app" height="300">
 
 ## In this section you can see the preview of the App
+Also in this directory their is 'demo.mkv' that you can see this content in the video format.
 <img src="demo.gif" height="350">
 
 ### Allright, it's time to explanation :dizzy_face:
