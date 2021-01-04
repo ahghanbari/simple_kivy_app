@@ -22,12 +22,11 @@ pip3 install kivy
 ```
 #### GNU/Linux Distribution:
 first way <br />
-```
+```shell
 python3 main.py
 ```
 second way
 ```
-chmod 733 main.py
 ./main.py
 ```
 
