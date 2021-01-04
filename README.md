@@ -17,7 +17,7 @@ The GUI Part of that written with [kivy](https://kivy.org/#home) and it's diffic
 ### How to Use:
 #### Requirements
 Just kivy
-```
+```bash
 pip3 install kivy
 ```
 #### GNU/Linux Distribution:
@@ -26,12 +26,12 @@ first way <br />
 python3 main.py
 ```
 second way
-```
+```sh
 ./main.py
 ```
 
 #### Windows
-```
+```python
 python3 main.py
 ```
 
@@ -45,6 +45,11 @@ Thanks to: <br />
  
 <br />
 <br />
+
+### TODO
+build APK (android version) with buildozer or python4android or ...
+<br />
+
 Bye Bye :worried: :hand:
 
 <br />
