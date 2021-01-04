@@ -181,9 +181,8 @@ class MainApp(App):
             # their score in bob_score and pat_score
 
             temp_bob = '{' + str(bob)[1:-1] + '}' + "\nScore: " + str(bob_score)
-
-            temp_pat = '\n\n\n{' + str(patrick)[1:-1] + '}' + "\nScore: " + str(pat_score) 
-                #'\n\n\n         [color=#000000][size=12]arash.ph17@gmail.com[/size][/color]'
+            signature = '\n\n\n         [color=#000000][size=12]arash.ph17@gmail.com[/size][/color]'
+            temp_pat = '\n\n\n{' + str(patrick)[1:-1] + '}' + "\nScore: " + str(pat_score) + signature
 
         else:
             temp_bob = "Hey Dude!\nWhat's wrong\nwith you?!"
