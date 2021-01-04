@@ -41,8 +41,8 @@ PS: we could put the file in the diffrent directory for more arrangement, but ru
 And in the end, this code was my project in the Algorithm Design Lesson.
 
 Thanks to: <br />
-- Dr Fatemeh Amiri (Professor) <br />
-- Mr Mahdi BG (TA)
+- **Dr Fatemeh Amiri** (Professor) <br />
+- **Mr Mahdi BG** (TA)
  
 <br />
 <br />
