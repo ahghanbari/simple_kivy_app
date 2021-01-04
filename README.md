@@ -20,9 +20,9 @@ The GUI Part of that written with [kivy](https://kivy.org/#home) and it's diffic
 
 and in the end, this code was my project in the Algorithm Design Lesson.
 
-Thanks to:
-        Dr Fatemeh Amiri (Professor)
-        Mr Mahdi BG (TA)
+- Thanks to:
+        - Dr Fatemeh Amiri (Professor)
+        - Mr Mahdi BG (TA)
  
  
  
