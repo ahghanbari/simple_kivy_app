@@ -13,6 +13,30 @@ In this bunch of code, we want to divide a list of Cards with Specific value bet
 The Algorithm Part of that is too simple :flushed: :grin: You can see and Understand.
 
 The GUI Part of that written with [kivy](https://kivy.org/#home) and it's difficult to explain, you can read that and if you could understand, then good for you :wink: :sunglasses:
+<br />
+### How to Use:
+#### Requirements
+Just kivy
+```
+pip3 install kivy
+```
+##### Gnu/Linux Distribution:
+first way <br />
+```
+python3 main.py
+```
+second way
+```
+chmod 733 main.py
+./main.py
+```
+<br />
+##### Windows
+```
+python3 main.py
+```
+
+note: we could put the file in the diffrent directory for more arrangement, but running that in the Unix-like system and widows was getting hard.
 
 And in the end, this code was my project in the Algorithm Design Lesson.
 
