@@ -29,7 +29,7 @@ or
 ./main.py
 ```
 
-#### [Windows](https://stallman.org/microsoft.html) (God damn window :neutral_face: :unamused: by the way)
+#### [Windows](https://stallman.org/microsoft.html) (God damn windows :neutral_face: :unamused: By the way)
 ```
 python3 main.py
 ```
