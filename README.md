@@ -6,7 +6,7 @@
 
 
 ## In this section you can see the preview of the App
-<img src="demo.gif" height="450">
+<img src="demo.gif" height="350">
 
 
 ### Allright, it's time to explanation :dizzy_face:
@@ -16,3 +16,5 @@ In this bunch of code, we want to divide a list of Cards with Specific value bet
 The Algorithm Part of that is too simple :flushed: :grin: You can see and Understand.
 
 The GUI Part of that written with [kivy](https://kivy.org/#home) and it's difficult to explain, you can read that and if you could understand, then good for you :wink: :sunglasses:
+
+and in the end, this code was my project in the Algorithm Design 
