@@ -17,11 +17,12 @@ The GUI Part of that written with [kivy](https://kivy.org/#home) and it's diffic
 And in the end, this code was my project in the Algorithm Design Lesson.
 
 Thanks to: <br />
-        Dr Fatemeh Amiri (Professor) <br />
-        Mr Mahdi BG (TA) \
+-Dr Fatemeh Amiri (Professor) <br />
+-Mr Mahdi BG (TA) \
  
-
- 
+<br />
+<br />
 Bye Bye :worried: :hand:
 
+<br />
 <br />
