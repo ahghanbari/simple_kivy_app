@@ -21,7 +21,7 @@ Just kivy
 ```bash
 pip3 install kivy
 ```
-#### GNU/Linux Distribution:
+#### [GNU/Linux Distribution](https://www.gnu.org/gnu/linux-and-gnu.en.html):
 
 ```
 python3 main.py
@@ -29,7 +29,7 @@ or
 ./main.py
 ```
 
-#### Windows
+#### [Windows](https://stallman.org/microsoft.html) God damn window :poker: by the way
 ```
 python3 main.py
 ```
@@ -48,7 +48,7 @@ Thanks to: <br />
 <br />
 
 ### TODO
-- build APK (android version) with buildozer or python4android or ...
+- build APK (android version) with [buildozer](https://buildozer.readthedocs.io/en/latest/) or [python4android](https://python-for-android.readthedocs.io/en/latest/) or ...
 <br />
 <br />
 
