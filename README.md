@@ -34,7 +34,7 @@ or
 python3 main.py
 ```
 
-PS: we could put the file in the diffrent directory for more arrangement, but running that in the Unix-like system and widows was getting hard.
+PS: we could put the file in the diffrent directory for more arrangement, but running that in the both of Unix-like system and widows, with one code was getting hard.
 <br />
 <br />
 
