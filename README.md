@@ -1,4 +1,4 @@
-# [Kivy_Simple_App](https://github.com/arashph17/kivy_simple_app)
+# [Simple_Kivy_App](https://github.com/arashph17/kivy_simple_app)
 ## Welcome :sunglasses:
 
 <img src="demo.png" alt="a demo pic of app" height="300">
