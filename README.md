@@ -48,7 +48,8 @@ Thanks to: <br />
 <br />
 
 ### TODO
-- build APK (android version) with [buildozer](https://buildozer.readthedocs.io/en/latest/) or [python4android](https://python-for-android.readthedocs.io/en/latest/) or ...
+- build APK (android version) with [buildozer](https://buildozer.readthedocs.io/en/latest/) or [python4android](https://python-for-android.readthedocs.io/en/latest/) or ... <br />
+- Write a good exit method because mine is for joke :> i wrote a code with bad passing arg, app will crash and obviously will be exit :)
 <br />
 <br />
 
