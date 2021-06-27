@@ -25,7 +25,6 @@ from kivy.core.window import Window
 # Library for handling wrong input
 import re
 
-
 # Main Class for GUI Design
 class MainApp(App):
 
