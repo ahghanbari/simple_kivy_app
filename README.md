@@ -41,7 +41,6 @@ PS: we could put the files (pictures) in the diffrent directory for more arrange
 And in the end, this code was my project in the Algorithm Design Lesson.
 
 Thanks to: <br />
-- **Dr Fatemeh Amiri** (Professor) <br />
 - **Mr Mahdi BG** (TA)
  
 <br />
